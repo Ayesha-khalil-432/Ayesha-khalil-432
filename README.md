@@ -1,16 +1,16 @@
-### Hi there 👋
+Hey there, I'm Manish 👋
+- Software Engineer, working as a frontend developer
+- Constantly learning React.js and JavaScript🌱
 
-<!--
-**Ayesha-khalil-432/Ayesha-khalil-432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayesha-khalil-435b87265/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 📊 GitHub Stats:
+[![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayesha-khalil-423)](https://github.com/Ayesha-khalil-432/github-readme-stats)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-khalil-432&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ayesha-khalil-432&icon=0&color=0)](https://visitcount.itsvg.in)
