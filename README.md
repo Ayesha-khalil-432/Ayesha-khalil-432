@@ -1,4 +1,4 @@
-Hey there, I'm Manish 👋
+Hey there, I'm Ayesha 👋
 - Software Engineer, working as a frontend developer
 - Constantly learning React.js and JavaScript🌱
 
