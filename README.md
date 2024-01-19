@@ -7,7 +7,7 @@ Hey there, I'm Ayesha 👋
 
 
 # 📊 GitHub Stats:
-[![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayesha-khalil-423)](https://github.com/Ayesha-khalil-432/github-readme-stats)<br/>
+[![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayesha-khalil-432)](https://github.com/Ayesha-khalil-432/github-readme-stats)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-khalil-432&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
